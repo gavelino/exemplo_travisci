@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Meu exemplo React com TRavis CI
+          Meu exemplo React com TRAVIS CI
         </p>
         <a
           className="App-link"
